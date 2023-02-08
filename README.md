@@ -1,3 +1,3 @@
 # Mapty
-## Using a javascript leaflet library 
+## Using OOP Principles and a javascript leaflet library 
 An application for marking your events 
